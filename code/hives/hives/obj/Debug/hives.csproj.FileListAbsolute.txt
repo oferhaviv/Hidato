@@ -1,0 +1,8 @@
+E:\Users\oferh\Documents\SharpDevelop Projects\hives\hives\obj\Debug\hives.csprojResolveAssemblyReference.cache
+E:\Users\oferh\Documents\SharpDevelop Projects\hives\hives\obj\Debug\hives.MainForm.resources
+E:\Users\oferh\Documents\SharpDevelop Projects\hives\hives\obj\Debug\hives.csproj.GenerateResource.Cache
+E:\Users\oferh\Documents\SharpDevelop Projects\hives\hives\bin\Debug\hidato.exe.config
+E:\Users\oferh\Documents\SharpDevelop Projects\hives\hives\bin\Debug\hidato.exe
+E:\Users\oferh\Documents\SharpDevelop Projects\hives\hives\bin\Debug\hidato.pdb
+E:\Users\oferh\Documents\SharpDevelop Projects\hives\hives\obj\Debug\hidato.exe
+E:\Users\oferh\Documents\SharpDevelop Projects\hives\hives\obj\Debug\hidato.pdb
